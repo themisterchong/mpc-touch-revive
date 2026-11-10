@@ -1,0 +1,12 @@
+build/
+__pycache__/
+*.pyc
+.DS_Store
+*.bak*
+*.dylib
+*.o
+*.log
+calibration*.txt
+padgain*.txt
+padsens*.txt
+*.kext/

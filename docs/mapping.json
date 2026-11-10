@@ -1,0 +1,354 @@
+[
+  {
+    "channel" : 10,
+    "example" : "99 25 05",
+    "kind" : "note",
+    "name" : "pad 1",
+    "number" : 37,
+    "port" : "MPC Touch Public"
+  },
+  {
+    "channel" : 10,
+    "example" : "99 24 1B",
+    "kind" : "note",
+    "name" : "pad 2",
+    "number" : 36,
+    "port" : "MPC Touch Public"
+  },
+  {
+    "channel" : 10,
+    "example" : "99 2A 08",
+    "kind" : "note",
+    "name" : "pad 3",
+    "number" : 42,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 10,
+    "example" : "99 52 0A",
+    "kind" : "note",
+    "name" : "pad 4",
+    "number" : 82,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 10,
+    "example" : "99 28 1B",
+    "kind" : "note",
+    "name" : "pad 5",
+    "number" : 40,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 10,
+    "example" : "99 26 18",
+    "kind" : "note",
+    "name" : "pad 6",
+    "number" : 38,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 10,
+    "example" : "99 2E 12",
+    "kind" : "note",
+    "name" : "pad 7",
+    "number" : 46,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 10,
+    "example" : "99 2C 64",
+    "kind" : "note",
+    "name" : "pad 8",
+    "number" : 44,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 10,
+    "example" : "99 30 21",
+    "kind" : "note",
+    "name" : "pad 9",
+    "number" : 48,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 10,
+    "example" : "99 2F 63",
+    "kind" : "note",
+    "name" : "pad 10",
+    "number" : 47,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 10,
+    "example" : "99 2D 5C",
+    "kind" : "note",
+    "name" : "pad 11",
+    "number" : 45,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 10,
+    "example" : "99 2B 62",
+    "kind" : "note",
+    "name" : "pad 12",
+    "number" : 43,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 10,
+    "example" : "99 31 24",
+    "kind" : "note",
+    "name" : "pad 13",
+    "number" : 49,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 10,
+    "example" : "99 37 50",
+    "kind" : "note",
+    "name" : "pad 14",
+    "number" : 55,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 10,
+    "example" : "99 33 53",
+    "kind" : "note",
+    "name" : "pad 15",
+    "number" : 51,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 10,
+    "example" : "99 35 61",
+    "kind" : "note",
+    "name" : "pad 16",
+    "number" : 53,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "90 0B 7F",
+    "kind" : "note",
+    "name" : "note repeat \/ latch",
+    "number" : 11,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "90 27 7F",
+    "kind" : "note",
+    "name" : "full level \/ half lever",
+    "number" : 39,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "90 28 7F",
+    "kind" : "note",
+    "name" : "16 level",
+    "number" : 40,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "90 09 7F",
+    "kind" : "note",
+    "name" : "erase",
+    "number" : 9,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "90 23 7F",
+    "kind" : "note",
+    "name" : "group a \/ E",
+    "number" : 35,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "90 24 7F",
+    "kind" : "note",
+    "name" : "group B \/ F",
+    "number" : 36,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "90 25 7F",
+    "kind" : "note",
+    "name" : "group C \/ G",
+    "number" : 37,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "90 26 7F",
+    "kind" : "note",
+    "name" : "group D \/ H",
+    "number" : 38,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "90 31 7F",
+    "kind" : "note",
+    "name" : "shift",
+    "number" : 49,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "90 35 7F",
+    "kind" : "note",
+    "name" : "tap",
+    "number" : 53,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "90 7B 7F",
+    "kind" : "note",
+    "name" : "menu \/ browse",
+    "number" : 123,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "90 49 7F",
+    "kind" : "note",
+    "name" : "rec",
+    "number" : 73,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "90 50 7F",
+    "kind" : "note",
+    "name" : "over dub",
+    "number" : 80,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "90 51 7F",
+    "kind" : "note",
+    "name" : "stop",
+    "number" : 81,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "90 34 7F",
+    "kind" : "note",
+    "name" : "main \/ track",
+    "number" : 52,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "90 43 7F",
+    "kind" : "note",
+    "name" : "undo \/ redo",
+    "number" : 67,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "90 52 7F",
+    "kind" : "note",
+    "name" : "play",
+    "number" : 82,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "90 7A 7F",
+    "kind" : "note",
+    "name" : "copy \/ delete",
+    "number" : 122,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "90 53 7F",
+    "kind" : "note",
+    "name" : "play start",
+    "number" : 83,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "90 36 7F",
+    "kind" : "note",
+    "name" : "+",
+    "number" : 54,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "90 37 7F",
+    "kind" : "note",
+    "name" : "-",
+    "number" : 55,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "90 00 7F",
+    "kind" : "note",
+    "name" : "q link",
+    "number" : 0,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "B0 10 01",
+    "kind" : "cc",
+    "name" : "rotate button 1",
+    "number" : 16,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "B0 11 01",
+    "kind" : "cc",
+    "name" : "rotate button 2",
+    "number" : 17,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "B0 12 01",
+    "kind" : "cc",
+    "name" : "rotate button 3",
+    "number" : 18,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "B0 13 01",
+    "kind" : "cc",
+    "name" : "rotate button 4",
+    "number" : 19,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "B0 64 01",
+    "kind" : "cc",
+    "name" : "big selection knob",
+    "number" : 100,
+    "port" : "MPC Touch Private"
+  },
+  {
+    "channel" : 1,
+    "example" : "90 6F 7F",
+    "kind" : "note",
+    "name" : "big selection knob select",
+    "number" : 111,
+    "port" : "MPC Touch Private"
+  }
+]
